@@ -152,12 +152,14 @@ def load_dataset(name: str) -> pd.DataFrame:
     if name not in DATASETS:
         raise ValueError(f"{name} not found.")
 
-    path = DATASETS[name]
+    config = DATASETS[name]
+    path=config["path"]
+    header=config.get("header",0)
 
     if not Path(path).exists():
         raise FileNotFoundError(path)
 
-    df = pd.read_excel(path,header=1 )     # <-- important
+    df = pd.read_excel(path,header=header)     # <-- important
     df=preprocess_dataset(df)
     return df
 

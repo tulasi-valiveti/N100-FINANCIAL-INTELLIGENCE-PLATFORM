@@ -19,7 +19,7 @@ sort:
 freeze:
 	pip freeze > requirements.txt
 load:
-	python src/load_data.py
+	python -m src.ETL.loader
 
 validate:
 	python src/validate_data.py
@@ -29,3 +29,6 @@ db:
 
 test:
 	pytest tests/
+
+validation:
+	python -m src.validators.run_validation
