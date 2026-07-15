@@ -3,6 +3,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parents[1]
 
 RAW_DATA = BASE_DIR / "data" / "raw"
+PROCESSED_DATA=BASE_DIR / "data" / "processed"
 SUPPORTING_DATA = BASE_DIR / "data" / "supporting_datasets"
 
 DATASETS = {
@@ -53,5 +54,5 @@ DATASETS = {
      "stock_prices": {
         "path": SUPPORTING_DATA / "stock_prices.xlsx",
         "header": 0,
-    },
+    }
 }

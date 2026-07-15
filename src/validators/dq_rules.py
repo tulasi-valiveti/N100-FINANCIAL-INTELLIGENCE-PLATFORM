@@ -62,8 +62,7 @@ def dq02_annual_pk(
 
     return df.drop_duplicates(
         subset=["company_id", "year"],
-        keep="last"
-    )
+        keep="last").reset_index(drop=True)
 
 def dq03_fk_integrity(
     df,
@@ -91,9 +90,7 @@ def dq03_fk_integrity(
             "Foreign key not found"
         )
 
-    return df[
-        df["company_id"].isin(valid_ids)
-    ]
+    return df[df["company_id"].isin(valid_ids)].reset_index(drop=True)
 
 def dq04_balance_sheet(
     balancesheet,
@@ -165,10 +162,7 @@ def dq05_opm(
 
     return profitandloss
 
-def dq06_sales(
-    profitandloss,
-    logger
-):
+def dq06_sales(profitandloss, logger):
 
     invalid = profitandloss[
         profitandloss["sales"] <= 0
@@ -187,9 +181,7 @@ def dq06_sales(
             "Sales must be positive"
         )
 
-    return profitandloss[
-        profitandloss["sales"] > 0
-    ]
+    return profitandloss
 
 
 def dq07_year(
@@ -281,6 +273,7 @@ def dq09_net_cash_check(
             "WARNING",
             "Net cash flow does not match CFO + CFI + CFF"
         )
+        cashflow.loc[diff > 10,"net_cash_flow"] = calculated[diff > 10]
 
     return cashflow
 
@@ -459,25 +452,23 @@ def dq15_balance_sheet(
     return balancesheet
 
 def dq16_company_history(
-    profitandloss,
+    df,
+    table_name,
     logger
 ):
 
     coverage = (
-        profitandloss
-        .groupby("company_id")["year"]
-        .nunique()
+        df.groupby("company_id")["year"]
+          .nunique()
     )
 
-    invalid = coverage[
-        coverage < 5
-    ]
+    invalid = coverage[coverage < 5]
 
     for company_id, years in invalid.items():
 
         logger.log(
             "DQ-16",
-            "profitandloss",
+            table_name,
             company_id,
             "",
             "year",
@@ -486,4 +477,4 @@ def dq16_company_history(
             "Less than 5 years of financial history"
         )
 
-    return profitandloss
+    return df

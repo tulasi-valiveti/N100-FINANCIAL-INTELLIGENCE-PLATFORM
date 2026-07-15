@@ -51,6 +51,9 @@ def main():
         datasets[name] = load_dataset(name)
 
         print(f"{name} loaded")
+    # Standardize the documents year column
+    datasets["documents"] = datasets["documents"].rename(columns={"Year": "year"})
+    
 
     logger = ValidationLogger()
 
@@ -64,12 +67,7 @@ def main():
         datasets["companies"],
         logger
     )
-    datasets["companies"] = dq01_company_pk(
-    datasets["companies"],
-    logger
-)
-
-    print(type(datasets["companies"]))
+    
 
     datasets["profitandloss"]=dq02_annual_pk(
         datasets["profitandloss"],"profitandloss",
@@ -90,7 +88,12 @@ def main():
     "cashflow",
     "financial_ratios",
     "market_cap",
-    "stock_prices"
+    "stock_prices",
+    "analysis",
+    "documents",
+    "prosandcons",
+    "sectors",
+    "peer_groups"
     ]
 
     for table in child_tables:
@@ -122,6 +125,7 @@ def main():
     "cashflow",
     "financial_ratios",
     "market_cap",
+    "documents",
     ]
     for table in child_table:
      datasets[table] = dq07_year(
@@ -178,15 +182,15 @@ def main():
     )
 
     datasets["profitandloss"] = dq16_company_history(
-        datasets["profitandloss"],
+        datasets["profitandloss"],"profitandloss",
         logger
     )
     datasets["balancesheet"] = dq16_company_history(
-        datasets["balancesheet"],
+        datasets["balancesheet"],"balancesheet",
         logger
     )
     datasets["cashflow"] = dq16_company_history(
-        datasets["cashflow"],
+        datasets["cashflow"],"cashflow",
         logger
     )
     # -------------------------------------------------
@@ -220,6 +224,9 @@ def main():
     print("Validation Successful")
 
     print("ETL Can Continue")
+    print(len(datasets["profitandloss"]))
+    print(len(datasets["balancesheet"]))
+    print(len(datasets["cashflow"]))
 
 
 if __name__ == "__main__":

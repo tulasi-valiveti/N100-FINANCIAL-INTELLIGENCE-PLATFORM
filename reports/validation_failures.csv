@@ -670,6 +670,158 @@ DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not foun
 DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,UNITDSPR,,company_id,UNITDSPR,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VBL,,company_id,VBL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,VEDL,,company_id,VEDL,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZOMATO,,company_id,ZOMATO,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
+DQ-03,prosandcons,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,prosandcons,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
+DQ-03,sectors,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
+DQ-03,peer_groups,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-05,profitandloss,96,,opm_percentage,30.0,WARNING,OPM mismatch
 DQ-05,profitandloss,219,,opm_percentage,1353.0,WARNING,OPM mismatch
 DQ-05,profitandloss,220,,opm_percentage,2307.0,WARNING,OPM mismatch
@@ -1267,22 +1419,6 @@ DQ-13,documents,173,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport
 DQ-13,documents,174,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532215/5322150311.pdf,WARNING,URL returned 403
 DQ-13,documents,175,,Annual_Report,Null,WARNING,URL not reachable
 DQ-13,documents,176,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,177,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/e10ea05d-5083-4c0b-b9d4-dd38508602d4.pdf,WARNING,URL returned 403
-DQ-13,documents,178,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//a1461b35-3d93-4cea-9ce0-6b4003c27d31.pdf,WARNING,URL returned 403
-DQ-13,documents,179,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/73451532977.pdf,WARNING,URL returned 403
-DQ-13,documents,180,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/68685532977.pdf,WARNING,URL returned 403
-DQ-13,documents,181,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770320.pdf,WARNING,URL returned 403
-DQ-13,documents,182,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770319.pdf,WARNING,URL returned 403
-DQ-13,documents,183,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770318.pdf,WARNING,URL returned 403
-DQ-13,documents,184,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770317.pdf,WARNING,URL returned 403
-DQ-13,documents,185,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770316.pdf,WARNING,URL returned 403
-DQ-13,documents,186,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770315.pdf,WARNING,URL returned 403
-DQ-13,documents,187,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,188,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770313.pdf,WARNING,URL returned 403
-DQ-13,documents,189,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770312.pdf,WARNING,URL returned 403
-DQ-13,documents,190,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770311.pdf,WARNING,URL returned 403
-DQ-13,documents,191,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,192,,Annual_Report,Null,WARNING,URL not reachable
 DQ-13,documents,193,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/a5a72b88-dcc6-45a3-8a32-ae88079475ff.pdf,WARNING,URL returned 403
 DQ-13,documents,194,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//641ff85b-b60c-4c73-93e9-52963d7d50ac.pdf,WARNING,URL returned 403
 DQ-13,documents,195,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532978/73489532978.pdf,WARNING,URL returned 403
@@ -2548,137 +2684,9 @@ DQ-13,documents,1454,,Annual_Report,https://www.bseindia.com/bseplus/AnnualRepor
 DQ-13,documents,1455,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532343/5323430312.pdf,WARNING,URL returned 403
 DQ-13,documents,1456,,Annual_Report,Null,WARNING,URL not reachable
 DQ-13,documents,1457,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1458,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/954d56a4-0b0e-405d-b877-e7696fef9fb8.pdf,WARNING,URL returned 403
-DQ-13,documents,1459,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//26a2922a-4386-4819-a739-01f0196834a6.pdf,WARNING,URL returned 403
-DQ-13,documents,1460,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/73874532538.pdf,WARNING,URL returned 403
-DQ-13,documents,1461,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/69096532538.pdf,WARNING,URL returned 403
-DQ-13,documents,1462,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380320.pdf,WARNING,URL returned 403
-DQ-13,documents,1463,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380319.pdf,WARNING,URL returned 403
-DQ-13,documents,1464,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380318.pdf,WARNING,URL returned 403
-DQ-13,documents,1465,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380317.pdf,WARNING,URL returned 403
-DQ-13,documents,1466,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380316.pdf,WARNING,URL returned 403
-DQ-13,documents,1467,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380315.pdf,WARNING,URL returned 403
-DQ-13,documents,1468,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380314.pdf,WARNING,URL returned 403
-DQ-13,documents,1469,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380313.pdf,WARNING,URL returned 403
-DQ-13,documents,1470,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532538/5325380312.pdf,WARNING,URL returned 403
-DQ-13,documents,1471,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1472,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1473,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1474,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/a59b26ca-8c5f-424f-ae8d-27c1b78e35f3.pdf,WARNING,URL returned 403
-DQ-13,documents,1475,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//083844e2-7459-4598-a74d-1254dc28b4bc.pdf,WARNING,URL returned 403
-DQ-13,documents,1476,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/73178532477.pdf,WARNING,URL returned 403
-DQ-13,documents,1477,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/68848532477.pdf,WARNING,URL returned 403
-DQ-13,documents,1478,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770320.pdf,WARNING,URL returned 403
-DQ-13,documents,1479,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770319.pdf,WARNING,URL returned 403
-DQ-13,documents,1480,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770318.pdf,WARNING,URL returned 403
-DQ-13,documents,1481,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770317.pdf,WARNING,URL returned 403
-DQ-13,documents,1482,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770316.pdf,WARNING,URL returned 403
-DQ-13,documents,1483,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770315.pdf,WARNING,URL returned 403
-DQ-13,documents,1484,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770314.pdf,WARNING,URL returned 403
-DQ-13,documents,1485,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770313.pdf,WARNING,URL returned 403
-DQ-13,documents,1486,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770312.pdf,WARNING,URL returned 403
-DQ-13,documents,1487,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532477/5324770311.pdf,WARNING,URL returned 403
-DQ-13,documents,1488,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1489,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1490,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/5a3fca91-db50-4b8f-b441-b923f2fa20a5.pdf,WARNING,URL returned 403
-DQ-13,documents,1491,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//a9f48c17-7320-41cd-8732-3fa67c480f1e.pdf,WARNING,URL returned 403
-DQ-13,documents,1492,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/73716532432.pdf,WARNING,URL returned 403
-DQ-13,documents,1493,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/69199532432.pdf,WARNING,URL returned 403
-DQ-13,documents,1494,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320320.pdf,WARNING,URL returned 403
-DQ-13,documents,1495,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320319.pdf,WARNING,URL returned 403
-DQ-13,documents,1496,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320318.pdf,WARNING,URL returned 403
-DQ-13,documents,1497,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320317.pdf,WARNING,URL returned 403
-DQ-13,documents,1498,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320316.pdf,WARNING,URL returned 403
-DQ-13,documents,1499,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320315.pdf,WARNING,URL returned 403
-DQ-13,documents,1500,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320314.pdf,WARNING,URL returned 403
-DQ-13,documents,1501,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320313.pdf,WARNING,URL returned 403
-DQ-13,documents,1502,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532432/5324320312.pdf,WARNING,URL returned 403
-DQ-13,documents,1503,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1504,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1505,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1506,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1507,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/2a9652ba-0b38-432b-8e1c-04a3c6a60cfd.pdf,WARNING,URL returned 403
-DQ-13,documents,1508,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//357821ff-40cf-4624-82fa-1c19624da856.pdf,WARNING,URL returned 403
-DQ-13,documents,1509,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/540180/72941540180.pdf,WARNING,URL returned 403
-DQ-13,documents,1510,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/540180/68364540180.pdf,WARNING,URL returned 403
-DQ-13,documents,1511,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801219.pdf,WARNING,URL returned 403
-DQ-13,documents,1512,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801218.pdf,WARNING,URL returned 403
-DQ-13,documents,1513,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801217.pdf,WARNING,URL returned 403
-DQ-13,documents,1514,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/540180/5401801216.pdf,WARNING,URL returned 403
-DQ-13,documents,1515,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1516,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1517,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1518,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1519,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1520,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1521,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1522,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4d3e3bc-fe5a-4184-b181-b5455d60f11a.pdf,WARNING,URL returned 403
-DQ-13,documents,1523,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//a04c4068-5204-4adb-8611-f12be2663d7d.pdf,WARNING,URL returned 403
-DQ-13,documents,1524,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/73739500295.pdf,WARNING,URL returned 403
-DQ-13,documents,1525,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/68971500295_28_09_21.pdf,WARNING,URL returned 403
-DQ-13,documents,1526,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/66998500295.pdf,WARNING,URL returned 403
-DQ-13,documents,1527,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950319.pdf,WARNING,URL returned 403
-DQ-13,documents,1528,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950318.pdf,WARNING,URL returned 403
-DQ-13,documents,1529,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950317.pdf,WARNING,URL returned 403
-DQ-13,documents,1530,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950316.pdf,WARNING,URL returned 403
-DQ-13,documents,1531,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950315.pdf,WARNING,URL returned 403
-DQ-13,documents,1532,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950312.pdf,WARNING,URL returned 403
-DQ-13,documents,1533,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950312.pdf,WARNING,URL returned 403
-DQ-13,documents,1534,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950312.pdf,WARNING,URL returned 403
-DQ-13,documents,1535,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/500295/5002950311.pdf,WARNING,URL returned 403
-DQ-13,documents,1536,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1537,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1538,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/53cec073-5278-4dcd-9066-2fd101023af5.pdf,WARNING,URL returned 403
-DQ-13,documents,1539,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//ea6ff555-0162-4acf-98b2-0ef7a7a26699.pdf,WARNING,URL returned 403
-DQ-13,documents,1540,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/73311507685.pdf,WARNING,URL returned 403
-DQ-13,documents,1541,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/68597507685.pdf,WARNING,URL returned 403
-DQ-13,documents,1542,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850320.pdf,WARNING,URL returned 403
-DQ-13,documents,1543,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850319.pdf,WARNING,URL returned 403
-DQ-13,documents,1544,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850318.pdf,WARNING,URL returned 403
-DQ-13,documents,1545,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850317.pdf,WARNING,URL returned 403
-DQ-13,documents,1546,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850316.pdf,WARNING,URL returned 403
-DQ-13,documents,1547,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850315.pdf,WARNING,URL returned 403
-DQ-13,documents,1548,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850314.pdf,WARNING,URL returned 403
-DQ-13,documents,1549,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850313.pdf,WARNING,URL returned 403
-DQ-13,documents,1550,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850312.pdf,WARNING,URL returned 403
-DQ-13,documents,1551,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/507685/5076850311.pdf,WARNING,URL returned 403
-DQ-13,documents,1552,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1553,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1554,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/629bfe24-4e55-4b14-957e-8c8bc5828ff0.pdf,WARNING,URL returned 403
-DQ-13,documents,1555,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e0e9b68-2d04-41bf-9f59-fb539e330baf.pdf,WARNING,URL returned 403
-DQ-13,documents,1556,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/543320/74160543320.pdf,WARNING,URL returned 403
-DQ-13,documents,1557,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1558,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1559,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1560,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1561,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1562,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1563,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1564,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1565,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1566,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1567,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1568,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1569,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1570,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb20386b-4a53-40b3-a9fb-dc63f99696f3.pdf,WARNING,URL returned 403
-DQ-13,documents,1571,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//fca8fc8e-6400-47eb-bbbe-1eaefff703d4.pdf,WARNING,URL returned 403
-DQ-13,documents,1572,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/73737532321.pdf,WARNING,URL returned 403
-DQ-13,documents,1573,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/68976532321.pdf,WARNING,URL returned 403
-DQ-13,documents,1574,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210320.pdf,WARNING,URL returned 403
-DQ-13,documents,1575,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210319.pdf,WARNING,URL returned 403
-DQ-13,documents,1576,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210318.pdf,WARNING,URL returned 403
-DQ-13,documents,1577,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210317.pdf,WARNING,URL returned 403
-DQ-13,documents,1578,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210316.pdf,WARNING,URL returned 403
-DQ-13,documents,1579,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210315.pdf,WARNING,URL returned 403
-DQ-13,documents,1580,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210314.pdf,WARNING,URL returned 403
-DQ-13,documents,1581,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210313.pdf,WARNING,URL returned 403
-DQ-13,documents,1582,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210312.pdf,WARNING,URL returned 403
-DQ-13,documents,1583,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532321/5323210311.pdf,WARNING,URL returned 403
-DQ-13,documents,1584,,Annual_Report,Null,WARNING,URL not reachable
-DQ-13,documents,1585,,Annual_Report,Null,WARNING,URL not reachable
 DQ-14,profitandloss,794,,eps,0.0,WARNING,Positive net profit with non-positive EPS
 DQ-14,profitandloss,1159,,eps,0.0,WARNING,Positive net profit with non-positive EPS
 DQ-14,profitandloss,1160,,eps,-1.0,WARNING,Positive net profit with non-positive EPS
 DQ-16,profitandloss,JIOFIN,,year,2,WARNING,Less than 5 years of financial history
-DQ-16,profitandloss,JIOFIN,,year,3,WARNING,Less than 5 years of financial history
-DQ-16,profitandloss,JIOFIN,,year,2,WARNING,Less than 5 years of financial history
+DQ-16,balancesheet,JIOFIN,,year,3,WARNING,Less than 5 years of financial history
+DQ-16,cashflow,JIOFIN,,year,2,WARNING,Less than 5 years of financial history
