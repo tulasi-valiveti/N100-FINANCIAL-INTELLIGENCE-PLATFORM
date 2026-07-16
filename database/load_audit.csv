@@ -1,0 +1,13 @@
+table_name,source_rows,loaded_rows,rejected_rows,status
+analysis,20,16,4,SUCCESS
+balancesheet,1312,1127,185,SUCCESS
+cashflow,1187,1044,143,SUCCESS
+companies,92,92,0,SUCCESS
+documents,1585,1441,144,SUCCESS
+profitandloss,1276,1061,215,SUCCESS
+prosandcons,16,14,2,SUCCESS
+financial_ratios,1184,1029,155,SUCCESS
+peer_groups,56,55,1,SUCCESS
+market_cap,552,546,6,SUCCESS
+sectors,92,91,1,SUCCESS
+stock_prices,5520,5460,60,SUCCESS

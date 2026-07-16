@@ -154,9 +154,9 @@ CREATE TABLE documents (
 
 CREATE TABLE prosandcons (
 
-    id INTEGER,
+    id INTEGER PRIMARY KEY,
 
-    company_id TEXT PRIMARY KEY,
+    company_id TEXT NOT NULL,
 
     pros TEXT,
     cons TEXT,
