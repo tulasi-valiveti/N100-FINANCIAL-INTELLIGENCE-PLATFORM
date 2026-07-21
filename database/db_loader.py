@@ -71,6 +71,7 @@ def main():
     print("Loading and preprocessing datasets...")
     datasets = load_all_datasets()
     
+    
     # Rename columns in documents to match the SQLite schema
     if "documents" in datasets:
         datasets["documents"] = datasets["documents"].rename(
@@ -89,6 +90,11 @@ def main():
     datasets["balancesheet"] = dq02_annual_pk(datasets["balancesheet"], "balancesheet", logger)
     datasets["cashflow"] = dq02_annual_pk(datasets["cashflow"], "cashflow", logger)
 
+    # DQ-08: Company ID length and case standardization
+    for table in datasets:
+        datasets[table] = dq08_company_id(datasets[table], table, logger)
+
+        
     # DQ-03: Foreign Key Integrity (removes orphan rows)
     child_tables = [
         "profitandloss",
@@ -123,9 +129,8 @@ def main():
     for table in child_year_tables:
         datasets[table] = dq07_year(datasets[table], table, logger)
 
-    # DQ-08: Company ID length and case standardization
-    for table in datasets:
-        datasets[table] = dq08_company_id(datasets[table], table, logger)
+    
+    
 
     # DQ-09: Cashflow validation and net cash flow correction
     datasets["cashflow"] = dq09_net_cash_check(datasets["cashflow"], logger)

@@ -81,6 +81,13 @@ def main():
         datasets["cashflow"],"cashflow",
         logger
     )
+
+    for table in datasets:
+     datasets[table] = dq08_company_id(
+        datasets[table],
+        table,
+        logger
+    )
  
     child_tables = [
     "profitandloss",
@@ -135,12 +142,7 @@ def main():
     )
     
     
-    for table in datasets:
-     datasets[table] = dq08_company_id(
-        datasets[table],
-        table,
-        logger
-    )
+    
 
     # -------------------------------------------------
     # DQ-09 to DQ-16
@@ -224,9 +226,7 @@ def main():
     print("Validation Successful")
 
     print("ETL Can Continue")
-    print(len(datasets["profitandloss"]))
-    print(len(datasets["balancesheet"]))
-    print(len(datasets["cashflow"]))
+    
 
 
 if __name__ == "__main__":

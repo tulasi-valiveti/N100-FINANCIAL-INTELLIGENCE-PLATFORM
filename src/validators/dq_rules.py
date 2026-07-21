@@ -223,7 +223,14 @@ def dq08_company_id(df, table_name, logger):
     else:
         col = "id"
 
-    df[col] = df[col].astype(str).str.strip().str.upper()
+    # Normalize company ID
+    df[col] = (
+        df[col]
+        .astype(str)
+        .str.strip()
+        .str.upper()
+        .str.replace("-", "", regex=False)
+    )
 
     invalid = df[
         (df[col].str.len() < 2) |

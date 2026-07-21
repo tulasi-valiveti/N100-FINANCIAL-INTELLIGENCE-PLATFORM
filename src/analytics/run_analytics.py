@@ -4,7 +4,6 @@ from src.analytics.ratios import *
 
 from src.validators.validation_logger import ValidationLogger
 
-
 conn=sqlite3.connect("database/nifty100.db")
 
 sectors = pd.read_sql("SELECT * FROM sectors", conn)
@@ -12,6 +11,7 @@ sectors = pd.read_sql("SELECT * FROM sectors", conn)
 peer_groups = pd.read_sql("SELECT * FROM peer_groups", conn)
 
 ratio_df = pd.read_sql("SELECT * FROM f_ratios", conn)
+
 logger=ValidationLogger()
 
 query="""SELECT
@@ -55,18 +55,18 @@ for _, row in df.iterrows():
     roce=return_on_capital_employed(
         row['operating_profit'],row['equity_capital'],row['reserves'],row['borrowings'])
     
-
     benchmark_roce = get_benchmark_roce(row['company_id'],
     sectors,
     peer_groups,
     ratio_df)
 
 
-    passed = check_roce_benchmark(
+    passed_bechmark_roce= check_roce_benchmark(
     roce,
     row['broad_sector'],
     benchmark_roce,
-)
+    )
+
 
     roa=return_on_assets(
         row['net_profit'],row['total_assets'])
@@ -101,6 +101,8 @@ for _, row in df.iterrows():
         "operational_profit_margin":f"{opm:.3f}"if opm is not None else None,
         "returns_on_equity":f"{roe:.3f}"if roe is not None else None,
         "returns_on_capital_employment":f"{roce:.3f}"if roce is not None else None,
+        "benchmark_cmpny_roce":benchmark_roce,
+        "passed_benchmark_roce":f"{passed_bechmark_roce:.3f}"if passed_bechmark_roce is not  None else None,
         "returns_on_assets":f"{roa:.3f}"if roa is not None else None,
         "debt_to_equity":f"{deb_equity:.3f}"if deb_equity is not None else None,
         "high_leverage_flag":high_leverage_flag,

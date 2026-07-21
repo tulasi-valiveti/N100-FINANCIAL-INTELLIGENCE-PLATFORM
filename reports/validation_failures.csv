@@ -243,19 +243,6 @@ DQ-02,cashflow,TCS,,"company_id,year",TCS - 2021-03,CRITICAL,Duplicate company/y
 DQ-02,cashflow,TCS,,"company_id,year",TCS - 2022-03,CRITICAL,Duplicate company/year
 DQ-02,cashflow,TCS,,"company_id,year",TCS - 2023-03,CRITICAL,Duplicate company/year
 DQ-02,cashflow,TCS,,"company_id,year",TCS - 2024-03,CRITICAL,Duplicate company/year
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,profitandloss,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,profitandloss,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,profitandloss,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,profitandloss,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
@@ -355,19 +342,6 @@ DQ-03,profitandloss,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not fou
 DQ-03,profitandloss,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,profitandloss,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,profitandloss,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,balancesheet,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,balancesheet,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,balancesheet,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,balancesheet,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
@@ -455,18 +429,6 @@ DQ-03,cashflow,AGTL,,company_id,AGTL,CRITICAL,Foreign key not found
 DQ-03,cashflow,AGTL,,company_id,AGTL,CRITICAL,Foreign key not found
 DQ-03,cashflow,AGTL,,company_id,AGTL,CRITICAL,Foreign key not found
 DQ-03,cashflow,AGTL,,company_id,AGTL,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,cashflow,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,cashflow,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,cashflow,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,cashflow,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
@@ -556,30 +518,6 @@ DQ-03,cashflow,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,cashflow,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,cashflow,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,cashflow,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,financial_ratios,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,financial_ratios,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,financial_ratios,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,financial_ratios,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
@@ -604,92 +542,10 @@ DQ-03,financial_ratios,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not 
 DQ-03,financial_ratios,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
 DQ-03,financial_ratios,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
 DQ-03,financial_ratios,UNIONBANK,,company_id,UNIONBANK,CRITICAL,Foreign key not found
-DQ-03,market_cap,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,market_cap,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,market_cap,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,market_cap,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,market_cap,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,market_cap,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,stock_prices,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
 DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
 DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
 DQ-03,analysis,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,documents,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
 DQ-03,documents,ULTRACEMCO,,company_id,ULTRACEMCO,CRITICAL,Foreign key not found
@@ -820,8 +676,6 @@ DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,documents,ZYDUSLIFE,,company_id,ZYDUSLIFE,CRITICAL,Foreign key not found
 DQ-03,prosandcons,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
 DQ-03,prosandcons,WIPRO,,company_id,WIPRO,CRITICAL,Foreign key not found
-DQ-03,sectors,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
-DQ-03,peer_groups,BAJAJAUTO,,company_id,BAJAJAUTO,CRITICAL,Foreign key not found
 DQ-05,profitandloss,96,,opm_percentage,30.0,WARNING,OPM mismatch
 DQ-05,profitandloss,219,,opm_percentage,1353.0,WARNING,OPM mismatch
 DQ-05,profitandloss,220,,opm_percentage,2307.0,WARNING,OPM mismatch
@@ -1067,6 +921,7 @@ DQ-07,profitandloss,171,,year,,CRITICAL,Invalid year format
 DQ-07,profitandloss,184,,year,,CRITICAL,Invalid year format
 DQ-07,profitandloss,197,,year,,CRITICAL,Invalid year format
 DQ-07,profitandloss,205,,year,,CRITICAL,Invalid year format
+DQ-07,profitandloss,218,,year,,CRITICAL,Invalid year format
 DQ-07,profitandloss,231,,year,,CRITICAL,Invalid year format
 DQ-07,profitandloss,244,,year,,CRITICAL,Invalid year format
 DQ-07,profitandloss,257,,year,,CRITICAL,Invalid year format
@@ -1419,6 +1274,22 @@ DQ-13,documents,173,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport
 DQ-13,documents,174,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532215/5322150311.pdf,WARNING,URL returned 403
 DQ-13,documents,175,,Annual_Report,Null,WARNING,URL not reachable
 DQ-13,documents,176,,Annual_Report,Null,WARNING,URL not reachable
+DQ-13,documents,177,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/e10ea05d-5083-4c0b-b9d4-dd38508602d4.pdf,WARNING,URL returned 403
+DQ-13,documents,178,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//a1461b35-3d93-4cea-9ce0-6b4003c27d31.pdf,WARNING,URL returned 403
+DQ-13,documents,179,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/73451532977.pdf,WARNING,URL returned 403
+DQ-13,documents,180,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/68685532977.pdf,WARNING,URL returned 403
+DQ-13,documents,181,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770320.pdf,WARNING,URL returned 403
+DQ-13,documents,182,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770319.pdf,WARNING,URL returned 403
+DQ-13,documents,183,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770318.pdf,WARNING,URL returned 403
+DQ-13,documents,184,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770317.pdf,WARNING,URL returned 403
+DQ-13,documents,185,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770316.pdf,WARNING,URL returned 403
+DQ-13,documents,186,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770315.pdf,WARNING,URL returned 403
+DQ-13,documents,187,,Annual_Report,Null,WARNING,URL not reachable
+DQ-13,documents,188,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770313.pdf,WARNING,URL returned 403
+DQ-13,documents,189,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770312.pdf,WARNING,URL returned 403
+DQ-13,documents,190,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532977/5329770311.pdf,WARNING,URL returned 403
+DQ-13,documents,191,,Annual_Report,Null,WARNING,URL not reachable
+DQ-13,documents,192,,Annual_Report,Null,WARNING,URL not reachable
 DQ-13,documents,193,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis/a5a72b88-dcc6-45a3-8a32-ae88079475ff.pdf,WARNING,URL returned 403
 DQ-13,documents,194,,Annual_Report,https://www.bseindia.com/xml-data/corpfiling/AttachHis//641ff85b-b60c-4c73-93e9-52963d7d50ac.pdf,WARNING,URL returned 403
 DQ-13,documents,195,,Annual_Report,https://www.bseindia.com/bseplus/AnnualReport/532978/73489532978.pdf,WARNING,URL returned 403
